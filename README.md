@@ -4,7 +4,7 @@
 | ---- | ----|
 | 名前 | Tsubasa Kawajiri|
 | Qiita | https://qiita.com/TsubasaKawajiri |
-| 現職 | UUUM 株式会社 |
+| 現職 | Repro 株式会社 |
 
 ## スキル
 ### 言語
