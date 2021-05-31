@@ -4,7 +4,7 @@
 | ---- | ----|
 | 名前 | Tsubasa Kawajiri|
 | Qiita | https://qiita.com/TsubasaKawajiri |
-| 現職 | Repro 株式会社 |
+| 現職 | 株式会社ファクトリアル |
 
 ## スキル
 ### 言語
