@@ -25,18 +25,17 @@
 - MySQL
 - Elasticsearch
 - Amazon Web Service
+  - Athena 
   - Cloudfront
+  - ECS on Fargate
   - EKS on Fargate
   - Elasticsearch Service
   - RDS
   - Aurora
   - Lambda
+  - Kinesis Firehose
+  - Codepipline
   - etc...
-- Google Cloud Platform
-  - BigQuery
-    - Data Transfer Service
-  - Firebase
-    - Realtime Database
 
 ### 何が出来るのか
 - webサービスのバックエンド設計/実装
@@ -44,10 +43,12 @@
 - webサービスのDB設計
 - webサービスのインフラ構築
   - Kubernetesを用いた高い可用性・スケーラビリティな構成の構築
+  - ECSを用いた高い可用性・スケーラビリティな構成の構築
 - Androidアプリの実装
 - DevOps
   - CI/CDフローの構築/自動化
     - GitOps
+  - Kinesis, Athenaを用いたLog解析基盤の作成
   - Dockerを用いた可搬性の高い構成の構築
   - Terraformによるコード化
 ### 出来ないこと
